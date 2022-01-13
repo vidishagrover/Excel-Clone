@@ -447,3 +447,8 @@ body{
     width: 50%;
     height: 100%;
 }
+@media(max-width:650px){
+    .menu-icon-bar{
+        overflow: scroll;
+    }
+}
